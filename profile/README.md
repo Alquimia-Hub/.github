@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚗️ Alquimia
+# 🧪 Alquimia
 
 **Comunidad de investigación sobre IA y automatización**
 
